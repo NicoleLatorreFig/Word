@@ -10,15 +10,49 @@ p {
 }
 
 ul {
-    color: thistle;
+    background-color: coral;
     text-align: center;
-}*/
+}
 
 #inicio {
     text-align: center;
     color: violet;
+}*/
+
+.alineado {
+    text-align: left;
+    color: white;
+    font-style: italic;
+    font-size: 20px;
 }
 
-ul {
-    background-color: coral;
+.centrado1 {
+    color: white;
+    text-align: justify;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.corrido {
+    color: white;
+    text-align: right;
+}
+
+.centrado {
+    margin-top: 100px;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+    /* border-style: solid;*/
+}
+
+body {
+    /*background-image: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/princesas-disney-mas-taquilleras-1543320663.jpg?crop=1.00xw:1.00xh;0,0&resize=768:*);*/
+    background-color: tomato;
+}
+
+img {
+    width: 20%;
+    float: left;
 }
