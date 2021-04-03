@@ -1,5 +1,24 @@
-h1 {
+/*h1 {
     color: brown;
     text-decoration: underline;
     text-align: center;
+}
+
+p {
+    color: chocolate;
+    text-align: center;
+}
+
+ul {
+    color: thistle;
+    text-align: center;
+}*/
+
+#inicio {
+    text-align: center;
+    color: violet;
+}
+
+ul {
+    background-color: coral;
 }
