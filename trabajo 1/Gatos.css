@@ -1,0 +1,60 @@
+.i {
+    text-align: right;
+}
+
+h1 {
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    font-size: 50px;
+}
+
+.contenedor {
+    text-align: center;
+    font-size: 25px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+h2 {
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 20px;
+}
+
+table {
+    text-align: left;
+}
+
+th,
+td {
+    border: none;
+    padding-top: 30px;
+    width: 20%;
+}
+
+.s {
+    width: 50%;
+}
+
+.ss {
+    font-size: 50px;
+}
+
+.o {
+    width: 50%;
+}
+
+.oo {
+    font-size: 50px;
+}
+
+.r {
+    width: 50%;
+}
+
+.rr {
+    font-size: 50px;
+}

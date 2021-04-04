@@ -1,0 +1,22 @@
+.i {
+    text-align: right;
+}
+
+.r {
+    width: 50%;
+    margin-top: 150px;
+}
+
+.rr {
+    font-size: 50px;
+}
+
+.ls {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.g {
+    width: 42%;
+}

@@ -1,0 +1,67 @@
+            h1 {
+                color: black;
+                text-decoration: none;
+                text-align: center;
+                font-size: 50px;
+            }
+            
+            .contenedor {
+                text-align: center;
+                font-size: 25px;
+                margin-left: 70px;
+                margin-right: 70px;
+            }
+            
+            h2 {
+                color: black;
+                text-decoration: none;
+                text-align: center;
+                font-size: 50px;
+                margin-top: 20px;
+            }
+            
+            h3 {
+                color: black;
+                text-decoration: none;
+                text-align: center;
+                font-size: 50px;
+                margin-top: 20px;
+            }
+            
+            .int {
+                margin-left: 170px;
+                font-size: 25px;
+            }
+            
+            table {
+                text-align: left;
+            }
+            
+            th,
+            td {
+                border: none;
+                padding-top: 30px;
+                width: 10%;
+                text-decoration: none;
+            }
+            
+            .ayuda {
+                margin-top: 80px;
+            }
+            
+            .j {
+                width: 50%;
+            }
+            
+            .jj {
+                text-decoration: none;
+                font-size: 50px;
+            }
+            
+            .l {
+                width: 50%;
+            }
+            
+            .ll {
+                font-size: 50px;
+            }
